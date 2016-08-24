@@ -1,0 +1,34 @@
+{
+  "songs": [
+    {
+      "title": "Through the Fire and the Flames",
+      "artist": "Dragonforce",
+      "album": "Inhuman Rampage",
+      "year": "2016"
+    },
+    {
+      "title": "Bus Stop Boxer",
+      "artist": "The Eels",
+      "album": "Souljacker",
+      "year": "2016"
+    },
+    {
+      "title": "Take On Me",
+      "artist": "Ninja Sex Party",
+      "album": "Under the Covers",
+      "year": "2016"
+    },
+    {
+      "title": "Regretroid",
+      "artist": "Starbomb",
+      "album": "Starbomb",
+      "year": "2016"
+    },
+    {
+      "title": "Brothers of Metal",
+      "artist": "ManOWar",
+      "album": "Louder Than Hell",
+      "year": "2016"
+    }
+  ]
+}

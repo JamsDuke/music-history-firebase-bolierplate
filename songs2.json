@@ -1,0 +1,29 @@
+{
+  "songs": [
+    {
+      "name": "Odd Look",
+      "artist": "Kavinsky",
+      "album": "OutRun"
+    },
+    {
+      "name": "Running Up That Hill",
+      "artist": "Placebo",
+      "album": "Sleeping With Ghosts"
+    },
+    {
+      "name": "Electro Gypsy",
+      "artist": "Savlonik",
+      "album": "Red"
+    },
+    {
+      "name": "Hurting",
+      "artist": "Friendly Fires",
+      "album": "Pala"
+    },
+    {
+      "name": "Policy of Truth",
+      "artist": "Depeche Mode",
+      "album": "Violator"
+    }
+  ]
+}
